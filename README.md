@@ -4,7 +4,7 @@
 ## Usage
 
 
-- Extract the zip file
+- Clone the repository.
 - Keep the relevant images under `data/`. Name the images as `Image<index>.png`
 - Create the following directories:
 ```
